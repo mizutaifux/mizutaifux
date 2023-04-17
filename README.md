@@ -5,6 +5,8 @@
 **Automate with:**
 
 - Automation Anywhere
+- BluePrism
+- Power Automate
 - UIPath
 - WinAutomation
 - AutoIT
